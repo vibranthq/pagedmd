@@ -1,0 +1,7 @@
+{
+  "name": "vfm",
+  "version": "0.0.0",
+  "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io/)",
+  "license": "Apache-2.0",
+  "main": "index.js"
+}
