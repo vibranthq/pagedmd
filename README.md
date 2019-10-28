@@ -6,5 +6,6 @@ Vibrant Flavoured Markdown (VFM) is a dialect of Markdown.
 
 ## Packages
 
-- remark-vfm - vfm to mdast-vfm
-- remark-rehype-vfm - mdast-vfm to hast
+- revibe-core - VFM syntax set
+- revibe-parse - `vfm` to `mdast+vfm`
+- revibe-rehype - `mdast+vfm` to `hast`

@@ -1,0 +1,13 @@
+{
+  "name": "revibe-core",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "babel -d lib src",
+    "dev": "babel -d lib src -w"
+  },
+  "devDependencies": {},
+  "author": "Yasuaki Uechi <y@uechi.io> (https://uechi.io/)",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "files": ["lib/syntax/*.js"]
+}
